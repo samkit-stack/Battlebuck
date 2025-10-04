@@ -1,6 +1,6 @@
 # 🚀 Battlebuck – SwiftUI Posts Assignment
 
-A simple SwiftUI app that fetches posts from a remote API, supports search, favorites, and offline storage — all built using **MVVM architecture**.
+A SwiftUI app that fetches posts from a remote API, supports search, favorites, and offline storage — all built using **MVVM architecture**.
 
 ---
 
