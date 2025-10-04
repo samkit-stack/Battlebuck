@@ -1,0 +1,50 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# Xcode user-specific data
+xcuserdata/
+*.xcuserdatad/
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Packages/
+
+# CocoaPods
+# Uncomment if you do NOT commit Pods to version control
+# Pods/
+
+# Carthage
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Misc
+*.orig
+*.rej
+
+# Ignore common secrets files
+.env
+.env.*
