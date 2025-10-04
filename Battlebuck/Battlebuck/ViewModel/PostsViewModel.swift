@@ -12,7 +12,6 @@ class PostsViewModel: ObservableObject {
     @Published var searchText = ""
     @Published var isLoading = false
     @Published var errorMessage: String?
-    
     @Published var favoriteIds: Set<Int> = [] {
         didSet {
             saveFavorites()
